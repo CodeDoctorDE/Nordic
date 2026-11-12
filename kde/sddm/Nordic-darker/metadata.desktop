@@ -1,8 +1,8 @@
 [SddmGreeterTheme]
 Name=Nordic-darker
-Description=Nordic darker sddm theme
+Description=Nordic darker sddm theme for plasma 6
 Author=Eliver Lara
-Copyright=(c) 2022, Eliver Lara
+Copyright=(c) 2024, Eliver Lara
 License=GPL 3+
 Type=sddm-theme
 Version=0.1
@@ -13,4 +13,4 @@ ConfigFile=theme.conf
 TranslationsDirectory=translations
 Email=eliverlara@gmail.com
 Theme-Id=Nordic-darker
-Theme-API=2.0
+QtVersion=6
